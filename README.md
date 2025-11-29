@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Key! </h1>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="auto" width="300" alt="Github Profile Alternative 1" src="https://i.imgur.com/kZWhAlD.jpeg">
+  <img align="right" top="500" height="auto" width="400" alt="Github Profile Alternative 1" src="https://i.imgur.com/kZWhAlD.jpeg">
 </a>
 
 
@@ -26,7 +26,7 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://x.com/KeysOnWhat">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		</div>
-  
+  </p>
 </h3>
 
 
