@@ -6,7 +6,7 @@
 
 <h3>
   
-- I’m currently 17, and live in America
+- I’m currently 17, and live in the United States
 
 - Focusing on Frontend, and Backend later on in 2026
 
